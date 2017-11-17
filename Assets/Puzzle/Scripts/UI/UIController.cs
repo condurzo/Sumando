@@ -58,7 +58,7 @@ public class UIController : MonoBehaviour {
 
 
 	void Start () {
-		PlayerPrefs.DeleteAll ();
+		//PlayerPrefs.DeleteAll ();
 
 		stateMachine = GameManager.instance.stateMachine;
 
