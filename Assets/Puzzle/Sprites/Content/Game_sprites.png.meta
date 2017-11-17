@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 82a226a634667224f9b46e20eda93944
+timeCreated: 1495209770
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game_sprites_cell
+    21300002: Game_sprites_tile
+    21300004: Game_sprites_tile_dummy
+    21300006: PALLETE
+    21300008: Game_sprites_cell_connected
+    21300010: Game_sprites_smooth
+    21300012: Game_sprites_tutorial_selection
+    21300014: Game_sprites_blocked_cell_highlight
+    21300016: Game_sprites_pattern_dot_inversed
+    21300018: Game_sprites_pattern_stripes
+    21300020: Game_sprites_pattern_dots
+    21300022: Game_sprites_pattern_stripes_outline
+    21300024: Game_sprites_pattern_outline
+    21300026: Game_sprites_pattern_bold_line
+    21300028: Game_sprites_pattern_lines_split
+    21300030: Game_sprites_pattern_bold_line_inverted
+    21300032: Game_sprites_explosion_ray
+    21300034: Game_sprites_explosion_glow
+    21300036: Game_sprites_HEXA
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_sprites_cell
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 880
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_tile
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 880
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_tile_dummy
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 880
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PALLETE
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 624
+        width: 58
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_cell_connected
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 707
+        width: 146
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4315, y: 0.5128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_smooth
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 731
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_tutorial_selection
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 868
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_blocked_cell_highlight
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 880
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_dot_inversed
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 551
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_stripes
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 551
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_dots
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 553
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_stripes_outline
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 411
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_outline
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 411
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_bold_line
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 411
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_lines_split
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 271
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_pattern_bold_line_inverted
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 271
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_explosion_ray
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 409
+        width: 132
+        height: 418
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_explosion_glow
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 224
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Game_sprites_HEXA
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 271
+        width: 126
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
